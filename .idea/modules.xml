@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Conditional Statement/Conditional Statement.iml" filepath="$PROJECT_DIR$/Conditional Statement/Conditional Statement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Course/Course.iml" filepath="$PROJECT_DIR$/Course/Course.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise/Exercise.iml" filepath="$PROJECT_DIR$/Exercise/Exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Full.iml" filepath="$PROJECT_DIR$/Java_Full.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LoopsAndMethods/LoopsAndMethods.iml" filepath="$PROJECT_DIR$/LoopsAndMethods/LoopsAndMethods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Operators/Operators.iml" filepath="$PROJECT_DIR$/Operators/Operators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Projects/Projects.iml" filepath="$PROJECT_DIR$/Projects/Projects.iml" />
+    </modules>
+  </component>
+</project>
