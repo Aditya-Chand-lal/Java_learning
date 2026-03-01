@@ -1,5 +1,5 @@
 package oneD_Array;
-
+//import oneD_Array.traverseArray;
 public class firstArray {
     public static void main(String[] args) {
         int [] elements = {1,2,3,4,5} ;
@@ -15,5 +15,8 @@ public class firstArray {
             System.out.println("Second array value : " + newElements[i]);
             i++;
         }
+//        traverseArray obj = new traverseArray();
+//        obj.traversal(elements);
+
     }
 }
