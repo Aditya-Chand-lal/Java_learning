@@ -17,7 +17,9 @@ public class sumAndAvg {
                 i++;
             }
             System.out.println("\nSum     : " + sum);
-            System.out.println("Average : " + (sum/elements.length));
+
+            float avg = sum/elements.length;
+            System.out.println("Average : " + (avg));
             System.out.print("\nWant to continue again, If yes press '1' otherwise 0 : ");
             Scanner sc = new Scanner(System.in);
             x = sc.nextInt();
