@@ -1,4 +1,12 @@
 package OOPS.abstraction;
 
-public class vehicle {
+public abstract class vehicle implements Transport{
+    int numberOfWheels;
+
+    public vehicle(int numberOfWheels) {
+        this.numberOfWheels = numberOfWheels;
+    }
+
+    public abstract void startSound();
+
 }
