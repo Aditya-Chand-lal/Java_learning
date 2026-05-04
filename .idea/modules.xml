@@ -3,8 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Array/Array.iml" filepath="$PROJECT_DIR$/Array/Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CollectionFramework/CollectionFramework.iml" filepath="$PROJECT_DIR$/CollectionFramework/CollectionFramework.iml" />
       <module fileurl="file://$PROJECT_DIR$/Conditional Statement/Conditional Statement.iml" filepath="$PROJECT_DIR$/Conditional Statement/Conditional Statement.iml" />
       <module fileurl="file://$PROJECT_DIR$/Course/Course.iml" filepath="$PROJECT_DIR$/Course/Course.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exceptions/Exceptions.iml" filepath="$PROJECT_DIR$/Exceptions/Exceptions.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercise/Exercise.iml" filepath="$PROJECT_DIR$/Exercise/Exercise.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java_Full.iml" filepath="$PROJECT_DIR$/Java_Full.iml" />
       <module fileurl="file://$PROJECT_DIR$/LoopsAndMethods/LoopsAndMethods.iml" filepath="$PROJECT_DIR$/LoopsAndMethods/LoopsAndMethods.iml" />
@@ -13,6 +15,7 @@
       <module fileurl="file://$PROJECT_DIR$/Projects/Projects.iml" filepath="$PROJECT_DIR$/Projects/Projects.iml" />
       <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion.iml" filepath="$PROJECT_DIR$/Recursion/Recursion.iml" />
       <module fileurl="file://$PROJECT_DIR$/String/String.iml" filepath="$PROJECT_DIR$/String/String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Varargs and Gennerics/Varargs and Gennerics.iml" filepath="$PROJECT_DIR$/Varargs and Gennerics/Varargs and Gennerics.iml" />
     </modules>
   </component>
 </project>

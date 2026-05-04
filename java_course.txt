@@ -1,0 +1,8 @@
+Hello guys this is my text file allocated from Exception file
+* 
+* * 
+* * * 
+* * * * 
+* * * * *
+
+Hii my name is Aditya and I am using file Reader
